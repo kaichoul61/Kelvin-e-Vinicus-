@@ -1,0 +1,43 @@
+[
+    {
+        "produtos": {
+            "prod123": "NOTEBOOK",
+            "prod124": "TABLET",
+            "prod125": "CELULAR",
+            "prod126": "AYR FRYER"
+        }
+    },
+    {
+        "vendedor": {
+            "vend456": "Jorge",
+            "vend457": "Fernando",
+            "vend458": "José",
+            "vend459": "José"
+        }
+    },
+    {
+        "preco": {
+            "preco789": "2550.00",
+            "preco790": "3199.00",
+            "preco791": "1999.00",
+            "preco792": "1999.00"
+        }
+    },
+    {
+        "imagemprodutos": {
+            "image001": "<img src='img/Notebook.png' width='150px'>",
+            "image002": "<img src='img/Tablet.png' width='150px'>",
+            "image003": "<img src='img/Celular.png' width='150px'>",
+            "image004": "<img src='img/AYR.png' width='150px'>"
+        }
+    },
+    {
+        "usuario": {
+            "cliente001": "Alex",
+            "cliente002": "Gabriela",
+            "cliente003": "Isabella",
+            "cliente004": "Leticia"
+        }
+    }
+    
+]
